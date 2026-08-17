@@ -6,10 +6,10 @@ Computer Engineering graduate focused on full-stack development and AI-powered a
 
 ## 🛠️ Tech Stack
 
-**Backend:** C#, .NET, ADO.NET, Entity Framework, Node.js, Express, Python
-**Frontend:** React, JavaScript, HTML/CSS
-**Database:** SQL Server, MySQL, PostgreSQL, Prisma ORM
-**Other:** Docker, Git/GitHub, JWT Authentication, MediaPipe, OpenCV, scikit-learn
+- **Backend:** C#, .NET, ADO.NET, Entity Framework, Node.js, Express, Python
+- **Frontend:** React, JavaScript, HTML/CSS
+- **Database:** SQL Server, MySQL, PostgreSQL, Prisma ORM
+- **Other:** Docker, Git/GitHub, JWT Authentication, MediaPipe, OpenCV, scikit-learn
 
 ## 🚀 Featured Projects
 
