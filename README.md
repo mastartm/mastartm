@@ -30,6 +30,7 @@ Computer Engineering graduate focused on full-stack development and AI-powered a
 - **[Iyici Car](https://iyici-car.netlify.app/)** — Automotive inventory system, live demo ([code](https://github.com/mastartm/iyici_car))
 
 ### Interactive Demos (Live)
+- **[Algorithm Simulator](https://mastartm.github.io/algorithm_game/)** — Human Resource Machine-inspired, stack-based visual programming puzzle game with 20 levels, live Python console output, and full drag-and-drop/touch support ([code](https://github.com/mastartm/algorithm_game))
 - **[Photo Puzzle](https://mastartm.github.io/puzzle_game/)** — Drag-and-drop jigsaw puzzle with adjustable difficulty and custom photo upload ([code](https://github.com/mastartm/puzzle_game))
 - **[Yonci Crush](https://mastartm.github.io/yonci_crush/)** — Candy Crush-style match game with scoring ([code](https://github.com/mastartm/yonci_crush))
 - **[Takuzu](https://mastartm.github.io/takazu/)** — Binary puzzle logic game with hints and undo ([code](https://github.com/mastartm/takazu))
