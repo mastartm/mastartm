@@ -55,5 +55,4 @@ Real projects built and shipped for actual businesses — not demos.
 - **[EntityFramework-DbFirst-ProductProject](https://github.com/mastartm/EntityFramework-DbFirst-ProductProject)** — Entity Framework DB-first approach
 - **[Wiki-Assistance](https://github.com/mastartm/Wiki-Assistance)** — Desktop app that fetches summaries from Wikipedia
 
-## 📫 Contact
-https://www.linkedin.com/in/burak-kaan-g%C3%B6k-755b05297/ · burak_kaan123@hotmail.com
+
