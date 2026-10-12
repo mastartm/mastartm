@@ -1,5 +1,5 @@
 # Hi, I'm Burak Kaan Gök 👋
-Computer Engineering graduate focused on full-stack development and AI-powered applications. Currently looking for junior software developer opportunities in Turkey.
+Computer Engineering graduate focused on full-stack development with .NET and React. Currently looking for junior software developer opportunities in Turkey.
 
 📍 Ankara, Turkey
 
@@ -15,13 +15,14 @@ Computer Engineering graduate focused on full-stack development and AI-powered a
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,python,react,js,html,css,mysql,postgres,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,vite,nodejs,express,python,postgres,mysql,docker,githubactions,git,github" />
 </p>
 
-- **Backend:** C#, .NET, ADO.NET, Entity Framework, Node.js, Express, Python
-- **Frontend:** React, JavaScript, HTML/CSS
-- **Database:** SQL Server, MySQL, PostgreSQL, Prisma ORM
-- **Other:** Docker, Git/GitHub, JWT Authentication, MediaPipe, OpenCV, scikit-learn
+- **Backend:** C#, .NET 8, ASP.NET Core Web API, Entity Framework Core, JWT Authentication, Node.js, Express, Python
+- **Frontend:** React, TypeScript, JavaScript, Vite, HTML/CSS
+- **Database:** SQL Server, PostgreSQL, MySQL, Prisma ORM
+- **DevOps & Testing:** Docker, GitHub Actions (CI/CD), xUnit, Testcontainers, Git/GitHub
+- **Computer Vision & ML:** MediaPipe, OpenCV, scikit-learn
 
 ## 💼 Client & Production Work
 Real projects built and shipped for actual businesses — not demos.
@@ -31,28 +32,22 @@ Real projects built and shipped for actual businesses — not demos.
 
 ## 🚀 Featured Projects
 
-### Full-Stack Applications
+- **[Seat Reservation Engine](https://github.com/mastartm/seat-reservation-engine)** — Reservation system built around one question: what happens when two people book the same seat at the same time? Solved with transactions and optimistic concurrency (`RowVersion`), seat holds that expire automatically, 116 tests (including real SQL Server), Docker and CI. .NET 8, EF Core, SQL Server, React · [Live demo](https://seat-reservation-engine.vercel.app)
+- **[Türkiye Hava Paneli](https://github.com/mastartm/turkiye-hava-paneli)** — Layered map dashboard for Turkey's 81 provinces built on free open data: temperature anomaly vs. the 1991–2020 average and live earthquakes. Layered .NET 8 API, PostgreSQL, React + TypeScript, hourly data collection with GitHub Actions · [Live demo](https://turkiye-hava-paneli.hava-paneli.workers.dev)
+- **[Stockmarket Backtest](https://github.com/mastartm/stockmarket-backtest)** — "What if I had bought?" site comparing buy-and-hold with an SMA 50/200 strategy across 39 US stocks and ETFs. Python data pipeline refreshed every business day by GitHub Actions, static site with Chart.js · [Live site](https://mastartm.github.io/stockmarket-backtest/)
 - **[iyici-car-v2](https://github.com/mastartm/iyici-car-v2)** — Personal rebuild of the inventory system with a modern stack (Node.js, Express, Prisma, React, JWT auth)
-- **[GateKeeperPro](https://github.com/mastartm/GateKeeperPro)** — Construction site personnel and turnstile access management system (C# WinForms, SQL Server)
-- **[MvcCv](https://github.com/mastartm/MvcCv)** — CV project with admin panel
+- **[MvcCv](https://github.com/mastartm/MvcCv)** — ASP.NET MVC CV project with admin panel
 
-### AI & Computer Vision
-- **[tid-parmak-alfabesi](https://github.com/mastartm/tid-parmak-alfabesi)** — Real-time Turkish Sign Language fingerspelling recognition (MediaPipe + scikit-learn)
-- **[ai-interactive-cam](https://github.com/mastartm/ai-interactive-cam)** — Real-time computer vision app for hand and face gesture interaction (MediaPipe, OpenCV)
+## 🔒 Private Projects
+Source code is private, details available on request.
 
-### Data Engineering
-- **[currency-pipeline](https://github.com/mastartm/currency-pipeline)** — Dockerized ETL pipeline that fetches currency exchange rates, transforms and loads them into PostgreSQL
+- **GateKeeperPro** — Construction site personnel and turnstile access management system (C# WinForms, SQL Server)
+- **TİD Parmak Alfabesi** — Real-time Turkish Sign Language fingerspelling recognition (MediaPipe, scikit-learn)
+- **AI Interactive Cam** — Real-time computer vision app for hand and face gesture interaction (MediaPipe, OpenCV)
+- **Currency Pipeline** — Dockerized ETL pipeline that fetches currency exchange rates, transforms and loads them into PostgreSQL
 
 ## 🕹️ Interactive Demos (Personal Projects)
-- **[Algorithm Simulator](https://mastartm.github.io/algorithm_game/)** — Human Resource Machine-inspired, stack-based visual programming puzzle game with 20 levels, live Python console output, and full drag-and-drop/touch support ([code](https://github.com/mastartm/algorithm_game))
 - **[Photo Puzzle](https://mastartm.github.io/puzzle_game/)** — Drag-and-drop jigsaw puzzle with adjustable difficulty and custom photo upload ([code](https://github.com/mastartm/puzzle_game))
 - **[Yonci Crush](https://mastartm.github.io/yonci_crush/)** — Candy Crush-style match game with scoring ([code](https://github.com/mastartm/yonci_crush))
 - **[Takuzu](https://mastartm.github.io/takazu/)** — Binary puzzle logic game with hints and undo ([code](https://github.com/mastartm/takazu))
 - **[Cursor Effects](https://mastartm.github.io/cursor-effects/)** — Three interactive Canvas/GSAP experiments: hexagon grid, cursor ring, smoke trail ([code](https://github.com/mastartm/cursor-effects))
-
-### Foundational Projects
-- **[Adonet_Customer_Project1](https://github.com/mastartm/Adonet_Customer_Project1)** — CRUD system using ADO.NET
-- **[EntityFramework-DbFirst-ProductProject](https://github.com/mastartm/EntityFramework-DbFirst-ProductProject)** — Entity Framework DB-first approach
-- **[Wiki-Assistance](https://github.com/mastartm/Wiki-Assistance)** — Desktop app that fetches summaries from Wikipedia
-
-
